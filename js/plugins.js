@@ -1,11 +1,11 @@
 /* ==============
  ========= js documentation ==========================
 
- * theme name: Xpovio
+ * theme name: Arch Studio
  * version: 1.0
- * description: Creative Agency Portfolio HTML5 Template
- * author: Gramentheme
- * author-url: https://themeforest.net/user/gramentheme
+ * description: Portfolio HTML5 Template
+ * Designer: Aan Fauzi
+ * Github-Url: https://github.com/archstudiogit
 
     ==================================================
 
