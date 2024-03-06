@@ -10,12 +10,8 @@
 -----------------------------------------------------------------*/
 
 /* == fontawesome == */
-@import url("https://fontawesome.com/css/app-wa-462d1fe84b879d730fe2180b0e0354e0.css?vsn=d");
-@import url("https://site-assets.fontawesome.com/releases/v6.5.1/css/all.css");
-@import url("https://site-assets.fontawesome.com/releases/v6.5.1/css/sharp-thin.css");
-@import url("https://site-assets.fontawesome.com/releases/v6.5.1/css/sharp-solid.css");
-@import url("https://site-assets.fontawesome.com/releases/v6.5.1/css/sharp-regular.css");
-@import url("https://site-assets.fontawesome.com/releases/v6.5.1/css/sharp-light.css");
+@import url("https://theme.dsngrid.com/blackdsn/light/assets/css/plugins/fontawesome-all.min.css");
+
 
 /* == Swiper == */
 @import url("https://cdn.jsdelivr.net/gh/archstudiogit/BudidayaKaos@main/master/css/swiper.min.css");
